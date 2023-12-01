@@ -1,0 +1,7 @@
+2023-06-21,nasi,Food,RM 5
+2023-06-13,bus,Transport,RM 2
+2023-06-06,movie,Entertainment,RM 20
+2023-06-06,noodle,Food,RM 5
+2023-06-13,test,Food,RM 1
+2023-06-06,test1,Fees,RM 4
+2023-06-07,burger,Food,RM 10
