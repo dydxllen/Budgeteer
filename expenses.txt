@@ -1,0 +1,7 @@
+2023-03-08,Noodles,Food,150.00
+2023-03-28,lagoon,Entertainment,200.00
+2023-04-07,test,Fees,192.00
+2023-03-07,movie,Entertainment,50.00
+2023-06-02,Nachos,Food,15.00
+2023-06-02,Bus Maria,Transport,1.00
+2023-06-16,Lobak,Groceries,5.00

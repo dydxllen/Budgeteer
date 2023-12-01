@@ -1,0 +1,6 @@
+2023-06-25,ptptn,Loan,1000.00
+2023-06-05,waiter,Part-time Job,500.00
+2023-10-17,MARA,Scholarship,1500.00
+2023-04-03,test,Loan,783.000
+2022-10-03,Affiliate,Part-time Job,150.00
+2023-06-16,Cat pagar,Part-time Job,100.00
